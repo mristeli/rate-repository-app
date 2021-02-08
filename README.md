@@ -1,2 +1,2 @@
 # rate-repository-app
-Repo for https://fullstackopen.com/en/part10
+Fullstack Open - React Native. See https://fullstackopen.com/en/part10
